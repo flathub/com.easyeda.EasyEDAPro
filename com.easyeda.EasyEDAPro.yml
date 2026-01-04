@@ -49,9 +49,9 @@ modules:
       - type: extra-data
         filename: easyeda-pro.zip
         only-arches: [x86_64]
-        url: https://image.easyeda.com/files/easyeda-pro-linux-x64-2.2.36.7.zip
-        sha256: dca49d20fa3fda8324573383b0838621322d09f8e15d84160f333f82d6d24cf2
-        size: 334960200
+        url: https://image.easyeda.com/files/easyeda-pro-linux-x64-2.2.39.2.zip
+        sha256: 16bd7e45391c7779212e1c843fd4e97a5a7404036c8bf3b5b8a4307dd379cb61
+        size: 335068630
         x-checker-data:
           type: html
           url: https://easyeda.com/page/download
