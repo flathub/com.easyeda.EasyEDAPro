@@ -6,7 +6,8 @@ base: org.electronjs.Electron2.BaseApp
 base-version: '24.08'
 command: easyeda-pro.sh
 separate-locales: false
-
+tags: 
+  - proprietary
 finish-args:
   - --share=ipc
   - --share=network
