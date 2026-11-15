@@ -47,24 +47,12 @@
   </content_rating>
 
   <releases>
-    <release version="3.2.206" date="2026-10-12">
-      <description></description>
-    </release>
-    <release version="2.2.45.4" date="2025-12-09">
-      <description/>
-    </release>
-    <release version="2.2.39.2" date="2025-05-20">
-      <description/>
-    </release>
-    <release version="2.2.36.7" date="2025-02-25">
-      <description/>
-    </release>
-    <release version="2.2.35.1" date="2025-1-6">
-      <description/>
-    </release>
-    <release version="2.2.34.8" date="2024-12-24">
-      <description/>
-    </release>
+    <release version="3.2.206" date="2026-10-12"/>
+    <release version="2.2.45.4" date="2025-12-09"/>
+    <release version="2.2.39.2" date="2025-05-20"/>
+    <release version="2.2.36.7" date="2025-02-25"/>
+    <release version="2.2.35.1" date="2025-1-6"/>
+    <release version="2.2.34.8" date="2024-12-24"/>
   </releases>
 
 </component>
