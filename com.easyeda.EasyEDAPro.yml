@@ -1,9 +1,9 @@
 app-id: com.easyeda.EasyEDAPro
 runtime: org.freedesktop.Platform
-runtime-version: '24.08'
+runtime-version: '26.08'
 sdk: org.freedesktop.Sdk
 base: org.electronjs.Electron2.BaseApp
-base-version: '24.08'
+base-version: '26.08'
 command: easyeda-pro.sh
 separate-locales: false
 
@@ -49,9 +49,9 @@ modules:
       - type: extra-data
         filename: easyeda-pro.zip
         only-arches: [x86_64]
-        url: https://image.easyeda.com/files/easyeda-pro-linux-x64-2.2.45.4.zip
-        sha256: acb6157cf8ac361554d9888756108641fe5ca16acf71c611daa6ed54910d5002
-        size: 329637401
+        url: https://image.easyeda.com/files/easyeda-pro-linux-x64-4.1.105.zip
+        sha256: 6d5bd29f97dddc693f3a019c270965dec9a6cb96b7c605c7d7bd807f34dce64c
+        size: 355900648
         x-checker-data:
           type: html
           url: https://easyeda.com/page/download
